@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+
+body {
+  background: linear-gradient(#F6F7FF, #30302E);
+  height: 100vh;
+  
+
+}
+
+h3 {
+  position: absolute;
+  left: 35%;
+  top: 17%;
+}
