@@ -42,7 +42,7 @@ class Player {
     this.pos.x += this.vel.x;
     this.pos.y += this.vel.y;
     if (this.pos.y + this.h + this.vel.y <= ch) {
-      this.vel.y += 0.5;
+      this.vel.y += 0.7;
     }
     else {
       this.vel.y = 0;
